@@ -1,0 +1,3 @@
+function Payment() {
+    this.id;
+}
